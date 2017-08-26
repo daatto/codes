@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1474841330 source:e:\projects\cf 719b\main.cpp
+	<iostream>
+	<string>
+	<algorithm>
+

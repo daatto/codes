@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1465827087 source:e:\projects\cf 577b\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+	<string>
+

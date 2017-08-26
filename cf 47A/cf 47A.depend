@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1467160589 source:e:\projects\cf 47a\main.cpp
+	<iostream>
+	<stdlib.h>
+	<math.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1473958528 source:e:\projects\qc2 c\main.cpp
+	<bits/stdc++.h>
+	<string.h>
+	<algorithm>
+

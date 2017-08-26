@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1478215504 source:e:\projects\binary search f\main.cpp
+	<bits/stdc++.h>
+	<cstdio>
+	<algorithm>
+

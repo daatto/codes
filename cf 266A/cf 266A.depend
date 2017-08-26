@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1465239908 source:e:\projects\cf 266a\main.cpp
+	<iostream>
+	<string>
+	<algorithm>
+
